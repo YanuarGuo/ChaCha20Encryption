@@ -1,8 +1,8 @@
 namespace ChaCha20Encryption
 {
-    public partial class Form1 : Form
+    public partial class ChaCha20Encryption : Form
     {
-        public Form1()
+        public ChaCha20Encryption()
         {
             InitializeComponent();
         }
